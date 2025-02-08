@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Olá! Sou Sarah Letícia - Desenvolvedor Front/Mobile 🚀
+    Olá! Sou Sarah Letícia - Desenvolvedora em Formação 🚀
   </h1>
   
 </div>
